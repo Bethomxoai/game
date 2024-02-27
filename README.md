@@ -1,2 +1,2 @@
 # game-
-2048 ai play game 
+8192 ai play game 
